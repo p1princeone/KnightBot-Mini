@@ -164,7 +164,7 @@ module.exports = {
       
       menuText += `╰━━━━━━━━━━━━━━━━━\n\n`;
       menuText += `💡 Type ${config.prefix}help <command> for more info\n`;
-      menuText += `🌟 Bot Version: 1.0.0\n`;
+      menuText += `🌟 Bot Version: 1.0.3\n`;
       
       // Send menu with image
       const fs = require('fs');
